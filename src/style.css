@@ -1,0 +1,18 @@
+.container{
+    height:33%
+}
+.column1{
+    width:33%;
+    background-color: purple;
+}
+.column2{
+    width:33%;
+    background-color: blue;
+}
+
+.column3{
+    width:33%;
+    background-color: grey;
+}
+
+
